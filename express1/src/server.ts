@@ -8,7 +8,7 @@ app.use(express.urlencoded({
   extended: false,
 }));
 
-app.use('/apis', ApiRouter);
+app.use('/api', ApiRouter);
 
 const PORT = process.env.PORT || 3000;
 
