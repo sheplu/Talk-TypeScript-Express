@@ -23,8 +23,7 @@
   },
   "author": "Jean Burellier",
   "license": "ISC",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^12.7.2",
     "nodemon": "^1.19.1",
